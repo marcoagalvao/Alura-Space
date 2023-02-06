@@ -14,4 +14,4 @@ Projeto feito com o intuito de praticar o react, utilizando beneficios que a bib
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Pretendo continuar me aprofundado ainda mais na biblioteca do React e quero terminar a formação de React com Javascript da Alura
