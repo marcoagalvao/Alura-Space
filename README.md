@@ -10,7 +10,7 @@ Projeto feito com o intuito de praticar o react, utilizando beneficios que a bib
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://prnt.sc/jUFQqFaKznFv#vitrinedev)
+![](https://i.im.ge/2023/02/07/a0eugc.Alura-Space.png#vitrinedev)
 
 ## Detalhes do projeto
 
