@@ -5,7 +5,7 @@ Projeto feito com o intuito de praticar o react, utilizando beneficios que a bib
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Space**
-| :label: Tecnologias | react, html, css, javascript
+| :label: Tecnologias | react, html, scss, javascript
 | :rocket: URL         | https://alura-space-rose-one.vercel.app
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos
 
